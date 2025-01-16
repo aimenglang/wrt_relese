@@ -130,8 +130,8 @@ install_small8() {
         tuic-client chinadns-ng ipt2socks tcping trojan-plus simple-obfs shadowsocksr-libev \
         luci-app-passwall alist luci-app-alist smartdns luci-app-smartdns v2dat mosdns luci-app-mosdns \
         adguardhome luci-app-adguardhome ddns-go luci-app-ddns-go taskd luci-lib-xterm luci-lib-taskd \
-        luci-theme-argon netdata luci-app-netdata lucky luci-app-lucky luci-app-openclash mihomo \
-        luci-app-mihomo luci-app-homeproxy luci-app-amlogic luci-i18n-nfs-zh-cn luci-i18n-udpxy-zh-cn
+        luci-theme-argon netdata luci-app-netdata luci-app-openclash mihomo \
+        luci-app-mihomo luci-app-amlogic luci-i18n-nfs luci-i18n-udpxy
 }
 
 install_feeds() {
